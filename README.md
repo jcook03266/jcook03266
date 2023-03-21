@@ -35,8 +35,8 @@
 
 ### Java:
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcook03266&repo=Flappy-Bird-Java-Edition)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcook03266&repo=Rock-Paper-Scissors-Java-GUI-Program-)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcook03266&repo=Old-Java-Code)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcook03266&repo=Rock-Paper-Scissors-Java-GUI-Program-)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcook03266&repo=Round-Robin-CPU-Scheduler-In-Java)
 
 ## Be sure to checkout [Foncii.com](https://www.foncii.com/) to see my latest work in action
