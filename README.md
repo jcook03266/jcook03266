@@ -38,5 +38,5 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcook03266&repo=Round-Robin-CPU-Scheduler-In-Java)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcook03266&repo=Rock-Paper-Scissors-Java-GUI-Program-)
 
-## Be sure to checkout [Foncii.com](https://www.foncii.com/) to see my secret work live in action
+## Be sure to checkout [Foncii.com](https://www.foncii.com/) to see my latest work in action
 [![Foncii](https://user-images.githubusercontent.com/63657230/226718749-009fb44d-5ef7-45d3-a31a-ec91c45290f8.png)](https://www.foncii.com/)
