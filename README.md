@@ -29,7 +29,7 @@
 ### Academic | C++ | Arduino | Python | Embedded Systems | Microwave Reflectometry
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcook03266&repo=Composite-Pipeline-Microwave-Scanner-Firmware)
 
-### We | HTML | CSS | React.js
+### Web | HTML | CSS | React.js
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcook03266&repo=Old-Websites)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcook03266&repo=JS-JQuery-Famous-Movie-Quote-Random-Gen)
 
@@ -37,6 +37,7 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcook03266&repo=Flappy-Bird-Java-Edition)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcook03266&repo=Round-Robin-CPU-Scheduler-In-Java)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcook03266&repo=Rock-Paper-Scissors-Java-GUI-Program-)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcook03266&repo=Old-Java-Code)
 
 ## Be sure to checkout [Foncii.com](https://www.foncii.com/) to see my latest work in action
 [![Foncii](https://user-images.githubusercontent.com/63657230/226718749-009fb44d-5ef7-45d3-a31a-ec91c45290f8.png)](https://www.foncii.com/)
