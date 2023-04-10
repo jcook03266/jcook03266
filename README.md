@@ -5,7 +5,6 @@
 ## About Me:
 - 🔭 I’m currently an M.S. CSCI Student at NYIT | `23 Grad
 - 🎓I just graduated with a B.S. in Electrical and Computer Engineering | '22
-- 🦜 Multilingual, in both programming, and IRL 
 - 🍜 I’m currently the Tech Lead / Lead Engineer @ [Foncii](https://www.foncii.com/)
 - 🌱 I’m currently mastering Apollo Server in Node.js
 - 👯 I’m down to collaborate on any software / hardware related projects
