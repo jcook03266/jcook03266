@@ -6,7 +6,7 @@
 - 🔭 I’m currently an M.S. CSCI Student at NYIT | `23 Grad
 - 🎓I just graduated with a B.S. in Electrical and Computer Engineering | '22
 - 🍜 I’m currently the Tech Lead / Lead Engineer @ [Foncii](https://www.foncii.com/)
-- 🌱 I’m currently mastering Apollo Server in Node.js
+- 🌱 I’m currently mastering Algolia
 - 👯 I’m down to collaborate on any software / hardware related projects
 - 📫 How to best reach me: [Business Email](mailto:jcook03266@gmail.com)
 - 🔗 Connect with me on [LinkedIn!](https://www.linkedin.com/in/justin-cook-53a904140/)
