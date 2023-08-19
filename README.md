@@ -3,14 +3,11 @@
 ![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcook03266&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ## About Me:
-- 🔭 I’m currently an M.S. CSCI Student at NYIT | `23 Grad
-- 🎓I just graduated with a B.S. in Electrical and Computer Engineering | '22
-- 🍜 I’m currently the Tech Lead / Lead Engineer @ [Foncii](https://www.foncii.com/)
-- 🌱 I’m currently mastering Algolia
-- 👯 I’m down to collaborate on any software / hardware related projects
+- 🎓 B.S. E.C.E NYIT '22, M.S. CSCI NYIT '23
+- 🍜 CTO / Lead Engineer @ [Foncii](https://www.foncii.com/)
+- 🌱 I’m currently mastering typescript and Next.JS
 - 📫 How to best reach me: [Business Email](mailto:jcook03266@gmail.com)
 - 🔗 Connect with me on [LinkedIn!](https://www.linkedin.com/in/justin-cook-53a904140/)
-- 💼 I’m open to and looking for full-time work as a software developer / iOS Engineer, reach out!
 
 # My Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcook03266&hide_progress=false)
