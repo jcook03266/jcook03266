@@ -5,14 +5,19 @@
 ## About Me:
 - 🎓 B.S. E.C.E NYIT '22, M.S. CSCI NYIT '23
 - 🍜 CTO / Lead Engineer @ [Foncii](https://www.foncii.com/)
-- 🌱 I’m currently mastering typescript and Next.JS
+- 🌱 My current focus is on creating high-dimensional embedding-based ML recommendation engines
 - 📫 How to best reach me: [Business Email](mailto:jcook03266@gmail.com)
 - 🔗 Connect with me on [LinkedIn!](https://www.linkedin.com/in/justin-cook-53a904140/)
 
-# My Stats
+### Follow Foncii On: [GitHub](https://github.com/foncii-org) | [Instagram](https://www.instagram.com/feelfoncii/) | [TikTok](https://www.tiktok.com/@feelfoncii) | [YouTube](https://www.youtube.com/channel/UCub_UeB9LxYnB0-ossaDyhw)
+
+## [Explore Foncii.com](https://foncii.com/) | iOS App Coming Soon
+![Foncii Hero](https://github.com/jcook03266/jcook03266/assets/63657230/3dfb2f23-d8a9-4b5c-b85a-4b75bd3ff0af)
+
+## My Public Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcook03266&hide_progress=false)
 
-# Check Out My Work
+## Check Out My Work
 ### iOS | Swift | Objective-C | SwiftUI | UIKit
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcook03266&repo=Sauron-iOS)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcook03266&repo=Inspec-iOS)
@@ -34,6 +39,3 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcook03266&repo=Old-Java-Code)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcook03266&repo=Rock-Paper-Scissors-Java-GUI-Program-)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcook03266&repo=Round-Robin-CPU-Scheduler-In-Java)
-
-## Be sure to checkout [Foncii.com](https://www.foncii.com/) to see my latest work in action
-[![Foncii](https://user-images.githubusercontent.com/63657230/226718749-009fb44d-5ef7-45d3-a31a-ec91c45290f8.png)](https://www.foncii.com/)
