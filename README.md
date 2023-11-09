@@ -9,7 +9,7 @@
 - 📫 How to best reach me: [Business Email](mailto:jcook03266@gmail.com)
 - 🔗 Connect with me on [LinkedIn!](https://www.linkedin.com/in/justin-cook-53a904140/)
 
-### Follow Foncii On: [GitHub](https://github.com/foncii-org) | [Instagram](https://www.instagram.com/feelfoncii/) | [TikTok](https://www.tiktok.com/@feelfoncii) | [YouTube](https://www.youtube.com/channel/UCub_UeB9LxYnB0-ossaDyhw)
+### Follow Foncii On: [GitHub](https://github.com/foncii-org) | [Instagram](https://www.instagram.com/feelfoncii/) | [TikTok](https://www.tiktok.com/@feelfoncii) | [YouTube](https://www.youtube.com/channel/UCub_UeB9LxYnB0-ossaDyhw) | [LinkedIn](https://www.linkedin.com/company/foncii/)
 
 ## [Explore Foncii.com](https://foncii.com/) | iOS App Coming Soon
 ![Foncii Hero](https://github.com/jcook03266/jcook03266/assets/63657230/3dfb2f23-d8a9-4b5c-b85a-4b75bd3ff0af)
