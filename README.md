@@ -4,8 +4,8 @@
 
 ## About Me:
 - 🎓 B.S. E.C.E NYIT '22, M.S. CSCI NYIT '23
-- 🍜 CTO / Lead Engineer @ [Foncii](https://www.foncii.com/)
-- 🌱 My current focus is on creating high-dimensional embedding-based ML recommendation engines
+- 🍜 Lead Engineer @ [Foncii](https://www.foncii.com/)
+- 🌱 Fine-tuning a sentiment-driven restaurant search engine, try it out [Best Sushi in SoHo](https://foncii.com/?pos=40.665%2C-73.892&search=best%20sushi%20in%20manhattan&z=9)
 - 📫 How to best reach me: [Business Email](mailto:jcook03266@gmail.com)
 - 🔗 Connect with me on [LinkedIn!](https://www.linkedin.com/in/justin-cook-53a904140/)
 
