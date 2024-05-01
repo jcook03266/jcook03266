@@ -3,6 +3,8 @@
 ![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcook03266&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ## About Me:
+Born and raised in Brooklyn NY. I love cooking, playing the piano, traveling, and creating new experiences. Creativity has always been my strong suit, coupled with my affinity for math, science, and video games growing up it only made sense for programming to become my creative outlet. I just hope my outlet makes sense to other people hahaha
+
 - 🎓 B.S. E.C.E NYIT '22, M.S. CSCI NYIT '23
 - 🍜 Lead Engineer @ [Foncii](https://www.foncii.com/)
 - 🌱 Fine-tuning a sentiment-driven restaurant search engine, try it out [Best Sushi in SoHo](https://foncii.com/?pos=40.665%2C-73.892&search=best%20sushi%20in%20manhattan&z=9)
